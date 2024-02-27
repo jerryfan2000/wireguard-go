@@ -11,7 +11,7 @@ import (
 	"testing"
 
 	"github.com/jerryfan2000/wireguard-go/conn"
-	"golang.zx2c4.com/wireguard/tun/tuntest"
+	"github.com/jerryfan2000/wireguard-go/tun/tuntest"
 )
 
 func TestCurveWrappers(t *testing.T) {
