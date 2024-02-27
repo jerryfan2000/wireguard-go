@@ -10,7 +10,7 @@ import (
 	"encoding/binary"
 	"testing"
 
-	"golang.zx2c4.com/wireguard/conn"
+	"github.com/jerryfan2000/wireguard-go/conn"
 	"golang.zx2c4.com/wireguard/tun/tuntest"
 )
 
